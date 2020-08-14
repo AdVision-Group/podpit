@@ -1,2 +1,2 @@
-# podpit.sk - comming-soon page
+# podpit.sk - coming-soon page
 by Tomáš Boďa
