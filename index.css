@@ -263,7 +263,7 @@
     .content .mockup-panel .download-panel {
         display: flex;
         flex-direction: row;
-        justify-content: center;
+        justify-content: space-between;
 
         position: relative;
         z-index: 10;
@@ -273,7 +273,6 @@
 
     .content .mockup-panel .download-panel .image {
         width: 40%;
-
-        margin-right: 10px;
+        object-fit: contain;
     }
 }
